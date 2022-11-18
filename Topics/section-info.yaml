@@ -1,0 +1,19 @@
+content:
+- Bytes basics
+- Creating bytes
+- Argparse module
+- Socket module
+- Custom generators
+- Lambda functions
+- Iterators
+- Map and filter
+- Itertools module
+- Dictionary methods
+- Slicing
+- Identity testing
+- Objects in Python
+- Operations with dictionary
+- Default arguments
+- Args
+- Kwargs
+- Time module
